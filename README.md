@@ -1,6 +1,6 @@
-# API-3.0-PHP
+# Cielo API-3.0-PHP
 
-SDK API-3.0 PHP
+SDK API-3.0 PHP da Cielo. 
 
 ## Principais recursos
 
@@ -29,7 +29,7 @@ Se já possui um arquivo `composer.json`, basta adicionar a seguinte dependênci
 
 ```json
 "require": {
-    "developercielo/api-3.0-php": "^1.0"
+    "somosyampi/cielo-api-3.0-php": "^1.0"
 }
 ```
 
@@ -42,7 +42,7 @@ composer install
 Alternativamente, você pode executar diretamente em seu terminal:
 
 ```
-composer require "developercielo/api-3.0-php"
+composer require "somosyampi/cielo-api-3.0-php"
 ```
 
 ## Produtos e Bandeiras suportadas e suas constantes
